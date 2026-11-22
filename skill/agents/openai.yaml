@@ -1,0 +1,4 @@
+interface:
+  display_name: "Student Study Orchestrator"
+  short_description: "Build spaced, workload-bounded study plans from topics, deadlines, confidence and available ses"
+  default_prompt: "Use @student-study-orchestrator on my authorized input and return a validated result."
