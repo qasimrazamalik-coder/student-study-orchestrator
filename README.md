@@ -1,5 +1,7 @@
 # Student Study Orchestrator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![AI Skill](https://img.shields.io/badge/AI-Skill-0f766e)](https://github.com/qasimrazamalik-coder/student-study-orchestrator)
+
 ![Workflow](assets/workflow-preview.svg)
 
 Build spaced, workload-bounded study plans from topics, deadlines, confidence and available sessions.
@@ -27,3 +29,33 @@ Use only authorized exports, official APIs or user-supplied data. This project d
 - `examples/` — reproducible demonstration
 - `tests/` — executable contract test
 - `docs/` — installation and guardrails
+
+## Common questions
+
+### What is Student Study Orchestrator?
+
+Student Study Orchestrator provides a deterministic, provider-neutral AI workflow.
+
+### Which AI tools can use it?
+
+Claude Code, Codex, ChatGPT, Gemini, Grok, MCP-compatible agents, and custom agent runtimes can use the instructions and deterministic runner.
+
+### Does it require an API key or cloud service?
+
+No. The reference workflow runs locally with Python and uses no external dependency or network call.
+
+### Is commercial use allowed?
+
+Yes. The project is released under the permissive [MIT License](LICENSE), including commercial use, modification, and redistribution subject to the license notice.
+
+### Where are the installation and safety instructions?
+
+See [Installation](docs/INSTALLATION.md), [Guardrails](docs/GUARDRAILS.md), and [Security](SECURITY.md).
+
+## Discovery keywords
+
+student, study, orchestrator, AI agent skill, agentic workflow, Claude Code skill, Codex skill, ChatGPT skill, Gemini skill, Grok skill, MCP, Python automation, open source AI tooling
+
+## License
+
+MIT © 2026 Qasim Raza Malik. See [LICENSE](LICENSE).
